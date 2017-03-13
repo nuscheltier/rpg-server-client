@@ -10,3 +10,7 @@ The features will be manyfold:
 At the moment there are just two features available:  
  * Chatting
  * Dicethrowing
+
+## Requirements
+ * node.js (v 7.5 - but should be possible with v6+) - serverside
+ * electron (v 1.6) - clientside
