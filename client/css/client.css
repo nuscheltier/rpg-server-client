@@ -1,0 +1,29 @@
+#mainwindow {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+#chatwindow {
+    border: 1px solid black;
+    position: fixed;
+    top: 2px;
+    left: 5px;
+    bottom: 2em;
+    right: 5px;
+    overflow-y: scroll;
+}
+#chattextwindow {
+    position: fixed;
+    left: 5px;
+    bottom: 0px;
+    right: 5px;
+    height: 2em;
+}
+#chattextbutton {
+    width: 8%;
+    float: right;
+}
+#chattext {
+    width: 91%;
+}
